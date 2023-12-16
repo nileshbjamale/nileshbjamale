@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshbjamale&label=Profile%20views&color=0e75b6&style=flat" alt="nileshbjamale" /> </p>
 
-- 🔭 I’m currently working on **preparation of CKA Exam**
+- 🔭 I’m currently working on **preparation of terraform Exam**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **terraform and vault**
 
 - 👯 I’m looking to collaborate on **DevOps, SRE, Security, Agile**
 
